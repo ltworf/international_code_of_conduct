@@ -4,9 +4,7 @@ International code of conduct
 No USA cultural imperialism allowed
 -----------------------------------
 
-This project welcomes every contributor from any background. For this reason we can't let the USA and USA influenced politically correct culture dictate conduct for everyone.
-
-Contributors are not expected to keep themselves up to date on social media about the current list of forbidden words.
+This project welcomes every contributor from any background. For this reason we can't let the USA and USA influenced politically correct culture dictate conduct for everyone. Diversity is beautiful, let's not ask of people to forgo their culture to contribute.
 
 Achieving social justice is important. Being superficial about it only to feel morally superior is not the way to achieve it and is not tolerated here.
 
@@ -24,9 +22,9 @@ It only applies to contributors. People whose only contribution is a code of con
 Offensive language
 ------------------
 
-Try to be nice.
+Try to be nice and constructive.
 
-Offending other people is not allowed.
+Harassing and intentionally offending other people is not allowed.
 
 Foul language is allowed.
 
@@ -37,6 +35,8 @@ Jokes are allowed.
 It can happen to unintentionally offend someone. Do not reiterate the offensive behaviour, provided that the request is reasonable.
 
 People who are easily offended by things not intended to be offensive must try to become more tolerant towards other people, other cultures and their ways of expressing themselves.
+
+For example, a person might consider offensive the sight of a woman with or without a headscarf. This person needs to try to become more tolerant to other people's culture.
 
 It is not allowed to be offended on behalf of others. Please do not presume to know what others are thinking.
 
@@ -55,9 +55,13 @@ Examples of disallowed language:
 Skill discrimination is absolutely fine
 ---------------------------------------
 
-Unlike other code of conducts, this allows skill discrimination. Contributors are not paid to be teachers.
+Unlike other code of conducts, this allows skill discrimination.
 
-It is nice if they have time and patience to mentor potential contributors, but it is also fine to turn down low quality contributions with little explaination.
+Everyone is welcome to contribute according to their skill level and more experienced contributors are encouraged to act as mentors.
+
+It is nice if they have time and patience to mentor potential contributors, but since time is a limited resource, it is also fine to turn down low quality contributions with little explaination.
+
+New contributors are expected to respond to comments and be willing to improve the quality of their contribution.
 
 Conflict resolution
 -------------------
@@ -67,9 +71,7 @@ This code of conduct is inevitably vague. Follow the intention rather than the l
 The final word rests with the project owners or their delegates.
 
 
-Changes to license or code of conduct
--------------------------------------
+Changes to license
+------------------
 
 If you disagree with the license, feel free to start your own project from scratch.
-
-If you disagree with the code of conduct, please remind that you are not forced to contribute.
