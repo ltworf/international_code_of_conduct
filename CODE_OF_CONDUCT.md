@@ -74,4 +74,6 @@ The final word rests with the project owners or their delegates.
 Changes to license
 ------------------
 
-If you disagree with the license, feel free to start your own project from scratch.
+It is not allowed to ask for license change and complain about copyleft.
+
+If you disagree with the license, feel free to start your own project from scratch without getting in touch and never look at the source code, to avoid copyright issues.
