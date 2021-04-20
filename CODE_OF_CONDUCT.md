@@ -19,8 +19,8 @@ It does not apply to anything any contributor might say or do outside of project
 It only applies to contributors. People whose only contribution is a code of conduct complaint are not contributors.
 
 
-Offensive language
-------------------
+Language
+--------
 
 Try to be nice and constructive.
 
