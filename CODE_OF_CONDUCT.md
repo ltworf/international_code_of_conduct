@@ -59,7 +59,7 @@ Unlike other code of conducts, this allows skill discrimination.
 
 Everyone is welcome to contribute according to their skill level and more experienced contributors are encouraged to act as mentors.
 
-It is nice if they have time and patience to mentor potential contributors, but since time is a limited resource, it is also fine to turn down low quality contributions with little explaination.
+It is nice if they have time and patience to mentor potential contributors, but since time is a limited resource, it is also fine to turn down low quality and low effort contributions with little explaination.
 
 New contributors are expected to respond to comments and be willing to improve the quality of their contribution.
 
