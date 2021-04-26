@@ -77,3 +77,8 @@ Changes to license
 It is not allowed to ask for license change and complain about copyleft.
 
 If you disagree with the license, feel free to start your own project from scratch without getting in touch and never look at the source code, to avoid copyright issues.
+
+See also
+--------
+
+* International code of conduct: https://github.com/ltworf/international_code_of_conduct
