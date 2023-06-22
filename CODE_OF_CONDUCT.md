@@ -82,3 +82,10 @@ See also
 --------
 
 * International code of conduct: https://github.com/ltworf/international_code_of_conduct
+
+Copyright notice
+----------------
+
+Copyright © 2021, 2023 Salvo 'LtWorf' Tomaselli <tiposchi@tiscali.it>
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
